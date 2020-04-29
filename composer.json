@@ -1,0 +1,19 @@
+{
+    "name": "stevethitchman/wp-faker",
+    "require": {
+        "fzaninotto/faker": "^1.5"
+    },
+    "authors": [
+        {
+            "name": "steve hitchman"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "app/helpers.php"
+        ],
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}

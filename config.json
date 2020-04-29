@@ -1,0 +1,9 @@
+{
+  "first_run": false,
+  "user_id": 2,
+  "taxonomies": true,
+  "posts": {
+    "page": "\\App\\PostTypes\\Page",
+    "resources": "\\App\\PostTypes\\Page"
+  }
+}
